@@ -1,0 +1,39 @@
+.img-main .img-box .img img{
+
+    width: 260px;
+    max-height: auto;
+    transform: rotate(eg);
+   
+
+}
+.img-main h1{
+    margin-bottom: 60px;
+  
+}
+
+.img-main .img-box{
+  
+    color: white;
+    height: 365px;
+    background-color:  rgb(50, 49, 49);
+    padding: 10px;
+    width: 290px;
+    border-radius: 10px;
+    position: relative;
+
+}
+.img-main .img-box:hover{
+    border: 1px solid red;
+}
+.img-main .img-box .btn{
+   
+    margin-top: 25px;
+    right: 0;
+    background-color: red;
+    color: white;
+    text-align: center;
+    position: absolute;
+    border-top-left-radius: 25px;
+  
+
+}

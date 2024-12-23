@@ -1,0 +1,43 @@
+.main-container .info-box h1 span{
+    color: red;
+    font-weight: bold;
+    font-size: 3rem;
+
+}
+.main-container .info-box .main-btn .btn-b{
+    background-color: red;
+    border-radius: 5px;
+    color: white;
+    text-transform: uppercase;
+    padding: 8px 25px;
+    font-weight: bold;
+}
+.main-container .info-box .colors .color-box{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
+.main-container{
+    margin-top:130px;
+    color: white;
+}
+.main-container .img-box img {
+   
+    max-width: 580px;
+    max-height: auto;
+    position: relative;
+    transform: rotate(-33deg);
+
+}
+.main-container .imgs-box .single-img{
+    background-color: rgb(50, 49, 49);
+    padding: 9px 8px;
+    border-radius: 15px;
+}
+
+.main-container .imgs-box .single-img img{
+  max-width: 150px;
+  max-height: auto;
+  transform: rotate(-10deg);
+  cursor: pointer;
+}

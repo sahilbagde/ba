@@ -1,0 +1,8 @@
+.main-container .img-box img {
+   
+    max-width: 580px;
+    max-height: auto;
+    position: relative;
+    transform: rotate(deg);
+
+}
